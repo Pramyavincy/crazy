@@ -38,18 +38,35 @@
 ## `SQLALCHEMY_DATABASE_URI` | MOST USE OLD USE
 
 
-## Special Credits
-- ZeusXRobot - base
-
-
-### Support
+#### Support
 <p>
-<a href="https://t.me/AnjalRobot"> <img src="https://img.shields.io/badge/Telegram-RoBot-blue?&logo=telegram" alt="Telegram RoBot" /> </a><br>
-<a href="https://t.me/NobisukiSupport"> <img src="https://img.shields.io/badge/Support-Chat-blue?&logo=telegram" alt="Support Chat" /> </a><br>
-<a href="https://t.me/UnitedSupport"> <img src="https://img.shields.io/badge/Support-Chat-blue?&logo=telegram" alt="Support Chat" /> </a><br>
+<a href="https://t.me/Gplove_Rp"> <img src="https://img.shields.io/badge/Gp-Ex-blue?&logo=telegram" alt="Gp on Telegram" /> </a><br>
+<a href="https://t.me/Rosisupport"> <img src="https://img.shields.io/badge/Support-Chat-blue?&logo=telegram" alt="Support Chat" /> </a><br>
+<a href="https://t.me/MissRosinetwork"> <img src="https://img.shields.io/badge/Update-Channel-blue?&logo=telegram" alt="Update Channel" /> </a><br>
 </p>
 
-## Credit
-• [Crazy Boy](https://t.me/call_me_crazyboy)``Owner``
- 
-• [DeepakJack](https://t.me/DeepakJack007)``Dev``
+### Credit 
+
+   - [✨🇩𝗶𝗻𝗲𝘀𝗵✨](https://t.me/Dinesh_dv29)
+
+   - [✨🇵𝗿𝗮𝘃𝗶𝗻𝗰𝘆✨](https://t.me/Gplove_Rp)
+
+   - [✨🇧𝗹𝗮𝗰𝗸✨](https://t.me/nanapdithan)
+
+   - [✨🇻𝗮𝗮𝘁𝗵𝗶✨](https://t.me/thala_vera_maari)
+
+   - [✨🇦𝗹𝗮𝗻 🇼𝗮𝗹𝗸𝗲𝗿✨](https://t.me/alpha_romeo_06)
+
+   - [✨🇯𝐚𝐜𝐊✨](https://t.me/jackjack63 )
+
+   - [✨🇸𝗮𝘁𝗵𝗶𝘀𝗵✨](https://t.me/Sathish_cat)
+
+   - [✨🇦𝗸𝗮𝘀𝗵✨](https://t.me/Russells_Viper)
+
+### Rosicat info🐱
+
+   -  [🇷𝗼𝘀𝗶🐱](https://t.me/RosiCat)
+
+### GP Channel🐱
+
+   - [✨🐱🇬 🇵 𝐂 𝐑 𝐄 𝔸 𝕋 𝐈 𝐎 ℕ ✨](https://t.me/GP_CREATION_CAT)
