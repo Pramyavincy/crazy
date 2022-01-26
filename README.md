@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/8dfeddcc4ccff7a567458.jpg">
 </p>
 
-<h4><p align="center"> AnjalRobot </p></h4>
+<h4><p align="center"> MissCrazy5bot </p></h4>
 
 <p align="center">AnjalRobot is a modular bot running on python3 with anime theme and have a lot features.</p>
 
