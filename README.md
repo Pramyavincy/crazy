@@ -2,12 +2,12 @@
   <img src="https://telegra.ph/file/8dfeddcc4ccff7a567458.jpg">
 </p>
 
-<h4><p align="center"> MissCrazy5bot </p></h4>
+<h4><p align="center"> CRAZY </p></h4>
 
 <p align="center">AnjalRobot is a modular bot running on python3 with anime theme and have a lot features.</p>
 
 <p align="center">
-<a href="https://t.me/AnjalRobot"> <img src="https://img.shields.io/badge/Anjal-blue?&logo=telegram" alt="Anjal on Telegram" /> </a><br>
+<a href="http://t.me/MissCrazy5bot"> <img src="https://img.shields.io/badge/Anjal-blue?&logo=telegram" alt="Crazy on Telegram" /> </a><br>
 <a href="https://python-telegram-bot.org"> <img src="https://img.shields.io/badge/PTB-13.10-white?&style=flat-round&logo=github" alt="Python Telegram Bot" /> </a>
 <a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a><br>
 <a href="https://docs.telethon.dev"> <img src="https://img.shields.io/badge/Telethon-1.24.0-red?&style=flat-round&logo=github" alt="Telethon" /> </a>
@@ -26,7 +26,7 @@
 
 ## ✨ Deploy to Railway ✨
 
-## Edit A Steela/Config.py in
+## Edit A Gp/Config.py in
 - `OWNER_ID`|`OWNER_USERNAME`
 - `API_ID`| `API_HARISH`|
 - `TOKEN`| NOW BOT RUNS RAILWAY!
