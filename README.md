@@ -4,7 +4,7 @@
 
 <h4><p align="center"> CRAZY </p></h4>
 
-<p align="center">AnjalRobot is a modular bot running on python3 with anime theme and have a lot features.</p>
+<p align="center">Crazy is a modular bot running on python3 with anime theme and have a lot features.</p>
 
 <p align="center">
 <a href="http://t.me/MissCrazy5bot"> <img src="https://img.shields.io/badge/Crazy-blue?&logo=telegram" alt="Crazy on Telegram" /> </a><br>
