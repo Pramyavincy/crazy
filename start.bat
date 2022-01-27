@@ -1,4 +1,4 @@
 @echo off
-TITLE SteelaQueenBot
-:: Enables virtual env mode and then starts Steela
-env\scripts\activate.bat && py -m SteelaQueenBot
+TITLE Rosiultra_bot
+:: Enables virtual env mode and then starts ROSI
+env\scripts\activate.bat && py -m Rosiultra_bot
